@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ThomasBlackford
+- 👀 I’m interested in ... Coding Software
+- 🌱 I’m currently learning ... JS
+- 💞️ I’m looking to collaborate on ... nothing atm
+- 📫 How to reach me ... thomas b! 0001

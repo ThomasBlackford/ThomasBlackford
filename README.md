@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @ThomasBlackford
-- 👀 I’m interested in ... Coding Software
-- 🌱 I’m currently learning ... JS
-- 💞️ I’m looking to collaborate on ... nothing atm
-- 📫 How to reach me ... thomas b! 0001
+I am tommy, a CS student. I am focusing on JS, Python, Java and C#. I hope to progress and work into the field of Artifical Intelligence, and maybe start a game studio when I am older! If you need to reach me, shoot me an email at thomasblackfordJS@gmail.com.

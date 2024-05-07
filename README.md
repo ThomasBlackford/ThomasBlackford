@@ -1,1 +1,1 @@
-I am tommy, a CS student. I am focusing on JS, Python, Java and C#. I hope to progress and work into the field of Artifical Intelligence, and maybe start a game studio when I am older! If you need to reach me, shoot me an email at thomasblackfordJS@gmail.com.
+I am tommy, a CS student. I am focusing on JS, Python, Java and C#. I hope to progress and work into the field of Artifical Intelligence, and maybe start a game studio when I am older! If you need to reach me, shoot me an email at tommyblackfordJS@gmail.com.
